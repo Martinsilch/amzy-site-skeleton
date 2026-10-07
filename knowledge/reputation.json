@@ -1,0 +1,34 @@
+{
+  "aggregateRating": "5.0",
+  "ratingValue": 5.0,
+  "reviewCount": 258,
+  "breakdown": {
+    "google": {
+      "reviewCount": 234,
+      "rating": 5.0,
+      "totalStars": 1170,
+      "platform": "Google Business Profile",
+      "placeId": "ChIJAcpZtwpXkFQRGSpNEcXWFt4",
+      "cid": "15999711673070107161",
+      "url": "https://www.google.com/maps?cid=15999711673070107161"
+    },
+    "yelp": {
+      "reviewCount": 24,
+      "rating": 4.7,
+      "totalStars": 112.8,
+      "platform": "Yelp",
+      "businessAlias": "m-and-m-junk-removal-federal-way-3",
+      "businessId": "ITIN7TOovki20LtMNU3b9A",
+      "url": "https://www.yelp.com/biz/m-and-m-junk-removal-federal-way-3"
+    },
+    "amzy": {
+      "reviewCount": 0,
+      "rating": 5.0,
+      "totalStars": 0,
+      "platform": "Amzy Telemetry",
+      "url": "https://amzy.me/?utm_content=4"
+    }
+  },
+  "bbbRating": "AAA+",
+  "lastUpdated": "2026-10-03T03:13:00.000Z"
+}
